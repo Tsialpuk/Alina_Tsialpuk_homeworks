@@ -1,0 +1,3 @@
+Hello!
+My naime is Alina!
+Я изучаю язык программирования Python.
